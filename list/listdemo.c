@@ -34,7 +34,7 @@ void main() {
     log("*********************\n\n"
         "input options:\n"
         "1: insert\n"           //插入
-        "2: serach     \n"           //查询
+        "2: serach\n"           //查询
         "3: search all \n"      //查询所有
         "4: modify\n"           //修改
         "5: delete\n"           //删除
