@@ -29,7 +29,7 @@ void main() {
     struct msg msg1, msg2, *pmsg;
 
     //链表初始化
-    INIT   _LIST_HEAD(&msg_head);
+    INIT_LIST_HEAD(&msg_head);
 
     log("*********************\n\n"
         "input options:\n"
