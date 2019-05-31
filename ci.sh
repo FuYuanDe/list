@@ -1,4 +1,5 @@
 #!/bin/bash
 set -e
 cd list
-make
+make clean && make
+
